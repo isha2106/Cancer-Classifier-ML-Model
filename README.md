@@ -1,4 +1,4 @@
-# Detection of Cancer Type based on Gene Expression Profiles
+## Detection of Cancer Type based on Gene Expression Profiles
 
 ### Introduction
 In bioinformatics, there is significant use of gene expression profiles for numerous number of studies. From
